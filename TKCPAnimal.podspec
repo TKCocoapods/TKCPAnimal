@@ -25,7 +25,7 @@ TKCPAnimal is a template of Cocoapods Module Demo, it will be simple.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ZhengXianda' => 'xianda.zheng@jiamiantech.com' }
-  s.source           = { :git => 'https://github.com/TKCocoapods/TKCPAnimal.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:TKCocoapods/TKCPAnimal.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.swift_version = '5.0'
